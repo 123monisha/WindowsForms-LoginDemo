@@ -1,6 +1,6 @@
 # WindowsForms Registration Demo
 
-A simple Windows Forms (C#) demo application for registering customers with SQL Server integration
+A simple Windows Forms (C#) demo application for registering customers with SQL Server 
 
 ## ✨ Features
 - Auto-generated account number for each new customer  
